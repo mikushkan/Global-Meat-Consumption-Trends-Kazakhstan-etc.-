@@ -1,4 +1,4 @@
-# Global-Meat-Consumption-Trends-Kazakhstan-etc.-
+# global-meat-consumption-analysis
 How has meat consumption changed over 60 years?
 # Author: Meruyert Sambetova
 Data source: Our World in Data
